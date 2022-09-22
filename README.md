@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=arzutp.visitor-badge&left_color=black&right_color=blue) 
-
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me: arzu.tepe.99@gmail.com
 
