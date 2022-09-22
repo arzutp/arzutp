@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=arzutp.visitor-badge&left_color=blue&right_color=yellow) 
 
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me: arzu.tepe.99@gmail.com
@@ -11,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzutp)](https://github.com/arzutp/github-readme-stats&theme=tokyonight)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=arzutp.visitor-badge&left_color=blue&right_color=yellow) 
+
