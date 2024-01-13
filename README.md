@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Unity
 - 📫 How to reach me: arzu.tepe.99@gmail.com
 
 
