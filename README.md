@@ -29,6 +29,8 @@ I'm a software developer.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&card_width=350&theme=dracula&hide_border=false&username=arzutp" height=196 alt="languages graph"  />
 </picture>
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arzutp/arzutp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arzutp/arzutp/output/github-contribution-grid-snake.svg">
