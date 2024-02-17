@@ -6,7 +6,7 @@ I'm a software developer.
 <br/>
 📫 How to reach me: arzu.tepe.99@gmail.com
 
-
+<img src="https://komarev.com/ghpvc/?username=arzutp&&color=ff69b4&label=PROFILE+VIEWS" height="20" alt="Profile Counter"  />
 
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
@@ -22,8 +22,10 @@ I'm a software developer.
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arzutp&show_icons=true&locale=en&layout=compact"/></p>
-
-![Arzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzutp&show_icons=true&theme=transparent)
-
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=arzutp&show_icons=true&theme=dracula" />
+</picture>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&card_width=350&theme=dracula&hide_border=false&username=arzutp" height=196 alt="languages graph"  />
+</picture>
 
