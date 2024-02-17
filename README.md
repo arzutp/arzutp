@@ -5,6 +5,9 @@ I'm a software developer.
 🌱 I’m currently learning .NET
 <br/>
 📫 How to reach me: arzu.tepe.99@gmail.com
+
+
+
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/arzutepe/">
@@ -12,8 +15,15 @@ I'm a software developer.
   </a>  
 </div>
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=arzutp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<h3 align="left">Languages and Tools:</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,unity" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzutp)](https://github.com/arzutp/github-readme-stats&theme=tokyonight) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arzutp&show_icons=true&locale=en&layout=compact"/></p>
+
+![Arzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzutp&show_icons=true&theme=transparent)
 
 
