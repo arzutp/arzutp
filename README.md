@@ -23,7 +23,7 @@ I'm a software developer.
 </p>
 
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=arzutp&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arzutp&show_icons=true&theme=dracula&card_width=300"/>
 </picture>
 <picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&card_width=350&theme=dracula&hide_border=false&username=arzutp" height=196 alt="languages graph"  />
