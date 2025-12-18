@@ -37,5 +37,3 @@ I'm a software developer.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arzutp/arzutp/output/github-contribution-grid-snake.svg">
 </picture>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arzutp" alt="GitHub Streak" /></a>
-
